@@ -9,6 +9,7 @@ const StyledLink = styled.a`
 
   &:hover {
     background: darkgreen;
+    cursor: pointer;
   }
 `;
 
